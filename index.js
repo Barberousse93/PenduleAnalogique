@@ -15,4 +15,4 @@ setInterval(() => {
     hh.style.transform = 'rotateZ(' + hDeg + ')'
     mm.style.transform = 'rotateZ(' + mDeg + ')'
     ss.style.transform = 'rotateZ(' + sDeg + ')'
-}, 900);
+});
